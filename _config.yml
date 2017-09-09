@@ -4,16 +4,19 @@ repository: https://github.com/BYR-STYLE/BYR-STYLE
 
 timezone: Asia/Shanghai
 
-name: BYR-STYLE
+title: BYR-STYLE
+description: Make Life BYR-STYLE
+url: http://byr-style.irockbunny.com
+contact: contact[at]irockbunny[dot]com
+
 author: iROCKBUNNY
 author_url: http://irockbunny.com
 organization: TEELAB
 organization_url: http://teelab.net
-description: Make Life BYR-STYLE
-url: http://byr-style.irockbunny.com
-contact: contact[at]irockbunny[dot]com
+
 github: https://github.com/BYR-STYLE
 
+image: /img/Avatar.png
 logo: /img/Avatar.png
 
 plugins:
